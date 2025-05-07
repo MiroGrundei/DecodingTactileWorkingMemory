@@ -17,7 +17,7 @@ session=1
 
 # specify preprocessing steps: 
 # 4=realignment; 5=coregistration; 1=segmentation; 6=normalization; 8=CSFnoise correction; 9=smoothing
-analysis_steps="[4, 5, 1, 6, 9]"
+analysis_steps="[4, 5, 1, 8]"
 # initial prefix for the data (empty if raw)
 prefix=""
 
